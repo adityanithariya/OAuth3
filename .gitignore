@@ -1,0 +1,30 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# cache
+*cache*
+
+# dotenv environment variables file
+.env
+.env.test
+
+# Hardhat files
+cache
+artifacts
+
+# production
+/build
+
+# Django files
+__pycache__
+migrations
+db.*

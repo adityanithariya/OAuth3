@@ -1,0 +1,15 @@
+[submodule "auth"]
+	path = auth
+	url = https://github.com/adityanithariya/OAuth3-auth.git
+
+[submodule "client"]
+	path = client
+	url = https://github.com/adityanithariya/OAuth3-client.git
+
+[submodule "server"]
+	path = server
+	url = https://github.com/adityanithariya/OAuth3-server.git
+
+[submodule "demo"]
+	path = demo
+	url = https://github.com/adityanithariya/OAuth3-demo.git
