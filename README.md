@@ -1,2 +1,2 @@
 # OAuth3
-Government Document Authorization Protocol using Blockchain
+Government Document Authorization Platform using Blockchain
